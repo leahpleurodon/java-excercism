@@ -1,0 +1,30 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "scrabble-score",
+                "projectName": "scrabble-score",
+                "workingDirectory": "/Users/leah.eramo/Exercism/java/scrabble-score",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "scrabble-score",
+                "projectName": "scrabble-score",
+                "workingDirectory": "/Users/leah.eramo/Exercism/java/scrabble-score",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}
