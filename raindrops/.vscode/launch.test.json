@@ -1,0 +1,30 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "raindrops",
+                "projectName": "raindrops",
+                "workingDirectory": "/Users/leah.eramo/Exercism/java/raindrops",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "raindrops",
+                "projectName": "raindrops",
+                "workingDirectory": "/Users/leah.eramo/Exercism/java/raindrops",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}
