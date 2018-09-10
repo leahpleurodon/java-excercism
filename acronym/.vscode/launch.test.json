@@ -1,0 +1,30 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "acronym",
+                "projectName": "acronym",
+                "workingDirectory": "/Users/leah.eramo/Exercism/java/acronym",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "acronym",
+                "projectName": "acronym",
+                "workingDirectory": "/Users/leah.eramo/Exercism/java/acronym",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}
