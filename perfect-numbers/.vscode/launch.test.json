@@ -1,0 +1,30 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "perfect-numbers",
+                "projectName": "perfect-numbers",
+                "workingDirectory": "/Users/leah.eramo/Exercism/java/perfect-numbers",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "perfect-numbers",
+                "projectName": "perfect-numbers",
+                "workingDirectory": "/Users/leah.eramo/Exercism/java/perfect-numbers",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}
