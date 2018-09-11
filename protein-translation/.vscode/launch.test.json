@@ -1,0 +1,30 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "protein-translation",
+                "projectName": "protein-translation",
+                "workingDirectory": "/Users/leah.eramo/Exercism/java/protein-translation",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "protein-translation",
+                "projectName": "protein-translation",
+                "workingDirectory": "/Users/leah.eramo/Exercism/java/protein-translation",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}
