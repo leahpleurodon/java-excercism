@@ -2,8 +2,8 @@ import java.time.LocalDate;
 import java.time.LocalDateTime;
 
 
-class Gigasecond {
-    public LocalDateTime birthDateTime;
+ class Gigasecond {
+    private LocalDateTime birthDateTime;
 
     Gigasecond(LocalDate birthDate) {
         this.birthDateTime = birthDate.atTime(0, 0);
@@ -14,7 +14,7 @@ class Gigasecond {
     }
 
     LocalDateTime getDate() {
-        return birthDateTime.plusSeconds(1000000000);
+        return birthDateTime.plusSeconds(10^9);
     }
 
 }
